@@ -1,0 +1,72 @@
+
+/* body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+} */
+
+.svgs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+   top: 100px;
+  }
+  .div {
+    height: 200px;
+  }
+ 
+  .arrowr {
+    width: 40px;
+  }
+  .arrowb {
+    width: 40px;
+  }
+  .arrowt {
+    width: 40px;
+  }
+  .arrowl {
+    width: 40px;
+  }
+  button.btnt {
+    position: relative;
+    bottom: 49px;
+    right: 102px;
+  }
+  button.btnr {
+    position: relative;
+    left: 121px;
+  }
+  button.btnl {
+    position: relative;
+    right: 101px;
+  }
+  button.btnb {
+    position: relative;
+    left: 11px;
+  }
+  .circle {
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    margin: auto ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    position: relative;
+    margin-top: 200px;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+  }
+
+  h1#apress {
+    position: absolute;
+    text-align: center;
+    top: 271px;
+    left: 822px;
+    display: none;
+}
